@@ -3,7 +3,7 @@
 This repository has an educational purpose, for those who are interested in learning *Reverse Engineering* in a practical way, with simple programs.
 
 <p align="center">
-  <img src="https://scontent.frec31-1.fna.fbcdn.net/v/t39.30808-6/300381104_562431832314190_6822939549818365751_n.png?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=v40mDut8ly0AX8OALRf&_nc_ht=scontent.frec31-1.fna&oh=00_AfDDGZu7sgznLNThw6wIVnTSe9ni6QkFu_zAxlX21WLzCQ&oe=650E988F">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzurxVe6QZbn0Fk5iuAH2tylXdFAzeIeBysze3ysyCCtx1jN4G1Ye9mPsuRJt1geG_BYE&usqp=CAU">
 </p>
 
 Consequently, if these binaries are executed in a monitored environment, it is possible to identify some insights for the process of creating intelligence for threat detection (: .
