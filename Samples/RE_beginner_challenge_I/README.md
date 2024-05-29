@@ -8,7 +8,7 @@ However, when we done a initial triage in this artifact through its submission t
   <img src="../RE_beginner_challenge_I/imgs/vt.png">
 </p>
 
-Therefore, we would like you to perform an in-depth analysis on this artifact, so that we can understand what it does, how it does it, and how we can automate the information detection and extraction process, through Yara rules and extractors written in Python (or any language you prefer).
+Therefore, we would like you to perform an in-depth analysis on this artifact, so that we can understand what it does, how it does it, and how we can automate the detection and extraction process, through Yara rules and extractors written in Python (or any language you prefer).
 
 Below is the *VirusTotal* link, and the sample link on *MalwareBazaar*.
 
